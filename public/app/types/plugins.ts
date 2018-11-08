@@ -91,5 +91,4 @@ export interface TemplateQueryProps {
   query: any;
   onChange: (c: any, definition: string) => void;
   datasource: any;
-  definition: string;
 }
